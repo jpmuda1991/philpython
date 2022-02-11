@@ -1,0 +1,2 @@
+voici un tutoriel de base sur python. ce tutoriel commence a la video 9. Nous avons vu les trucs basic de python comme les variables,
+user inputs et fonctions. Nous allons continuer avec des notions plus complex.
