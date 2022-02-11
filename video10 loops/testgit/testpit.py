@@ -11,4 +11,4 @@ while (i <= 28):
 
 while (e <=28):
     print("nombre croissant" , e)
-    e += 2      #incrementation par l'addition
+    e += 2      
